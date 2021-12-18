@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><process version="9.8.000">
   <context>
     <input/>
-    <output/>
+    <output/> 
     <macros/>
   </context>
   <operator activated="true" class="process" compatibility="9.8.000" expanded="true" name="Process">

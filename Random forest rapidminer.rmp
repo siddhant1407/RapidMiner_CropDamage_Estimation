@@ -3,7 +3,7 @@
     <input/>
     <output/>
     <macros/>
-  </context>
+  </context>    
   <operator activated="true" class="process" compatibility="9.8.000" expanded="true" name="Process">
     <parameter key="logverbosity" value="init"/>
     <parameter key="random_seed" value="2001"/>
